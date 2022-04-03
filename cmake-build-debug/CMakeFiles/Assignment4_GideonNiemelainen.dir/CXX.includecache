@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/City.h
+iostream
+-
+vector
+-
+
+/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/Organism.h
+iostream
+-
+
+/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/Zombie.h
+Organism.h
+/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/Organism.h
+
+/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/main.cpp
+iostream
+-
+windows.h
+-
+City.h
+/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/City.h
+Organism.h
+/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/Organism.h
+Zombie.h
+/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/Zombie.h
+chrono
+-
+thread
+-
+

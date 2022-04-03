@@ -1,0 +1,4 @@
+C:\Users\nieme\AppData\Local\JetBrains\CLion2021.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug

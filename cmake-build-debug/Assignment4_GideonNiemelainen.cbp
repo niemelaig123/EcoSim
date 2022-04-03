@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assignment4_GideonNiemelainen"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment4_GideonNiemelainen">
+				<Option output="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Assignment4_GideonNiemelainen.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment4_GideonNiemelainen"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment4_GideonNiemelainen/fast">
+				<Option output="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Assignment4_GideonNiemelainen.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment4_GideonNiemelainen/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/City.cpp">
+			<Option target="Assignment4_GideonNiemelainen"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/City.h">
+			<Option target="Assignment4_GideonNiemelainen"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/GameSpecs.h">
+			<Option target="Assignment4_GideonNiemelainen"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/Human.cpp">
+			<Option target="Assignment4_GideonNiemelainen"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/Human.h">
+			<Option target="Assignment4_GideonNiemelainen"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/Organism.cpp">
+			<Option target="Assignment4_GideonNiemelainen"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/Organism.h">
+			<Option target="Assignment4_GideonNiemelainen"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/Zombie.cpp">
+			<Option target="Assignment4_GideonNiemelainen"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/Zombie.h">
+			<Option target="Assignment4_GideonNiemelainen"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/main.cpp">
+			<Option target="Assignment4_GideonNiemelainen"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Projects/NSCC/Year2/sem1/PROG2100_CPP/repo/CPlusPlus_sem1/Assignments/Assignment4_GideonNiemelainen/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
